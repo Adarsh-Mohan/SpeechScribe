@@ -7,7 +7,7 @@ import androidx.room.RoomDatabase
 import com.example.speechscribe.entity.Note
 
 /**
- * Created by ixi.Dv on 20/06/2018.
+ * Created by Adarsh Mohan
  */
 @Database(entities = [Note::class], version = 1)
 abstract class NotesDB : RoomDatabase() {
