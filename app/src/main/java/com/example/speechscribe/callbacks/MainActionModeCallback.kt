@@ -6,7 +6,7 @@ import androidx.appcompat.view.ActionMode
 import com.example.speechscribe.R
 
 /**
- * Created by ixi.Dv on 22/07/2018.
+ * Created by Adarsh Mohan
  */
 public abstract class MainActionModeCallback : ActionMode.Callback {
     var action: ActionMode? = null
