@@ -3,10 +3,7 @@ package com.example.speechscribe.db
 import androidx.room.*
 import com.example.speechscribe.entity.Note
 
-/**
- * Notes Data Object access help to access the notes
- * Created by ixi.Dv on 20/06/2018.
- */
+
 @Dao
 interface NotesDao {
     /**
