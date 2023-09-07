@@ -1,2 +1,2 @@
 # SpeechScribe
-Wordpad android app with speech to text translation technology
+Developed an innovative Wordpad Android application using cutting-edge speech-to-text translation technology, meticulously crafted within the Android Studio environment.
